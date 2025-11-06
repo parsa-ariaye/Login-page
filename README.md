@@ -1,5 +1,4 @@
 # Login-page
-A animated login page for developers.
+A animated login page 
 
-example:
-https://github.com/parsa-ariaye/Login-page/index.html
+https://parsa-ariaye.github.io/Login-page/
